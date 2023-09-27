@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mrazzian
-- 👀 I’m interested in working on projects
+- 👀 I’m interested in working on projects 
 - 🌱 I’m currently learning sql
 - 💞️ I’m looking to collaborate on sql
 
